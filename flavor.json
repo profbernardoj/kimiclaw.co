@@ -1,10 +1,9 @@
 {
-  "name": "Morpheus Skill",
-  "slug": "morpheus-skill",
-  "domain": "morpheusclaw.com",
-  "description": "The canonical Morpheus decentralized AI agent skill for OpenClaw",
-  "remote": "https://github.com/profbernardoj/morpheus-skill.git",
+  "name": "Kimi Claw",
+  "slug": "kimiclaw",
+  "domain": "kamiclaw.co",
+  "description": "AI agent powered by Kimi models",
+  "remote": "https://github.com/profbernardoj/kamiclaw.co.git",
   "defaultModel": "glm-5",
-  "persona": "Morpheus decentralized AI assistant",
-  "canonical": true
+  "persona": "Kimi-focused AI assistant"
 }
